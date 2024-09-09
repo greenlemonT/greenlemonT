@@ -122,16 +122,7 @@ SQLD
 ### 🔥 Stats 🔥
 ![greenlemonT GitHub stats](https://github-readme-stats.vercel.app/api?username=greenlemonT&show_icons=true&theme=transparent)
 
-### ❓ final voca ❓
-<img src="./images/흠.jpg"  width="300" height="300">
-<img src="./images/어라.jpg"  width="300" height="300">
-<br>
-<br>
 
-## Uhh...???
-
-### ❓ me ❓
-<img src="./images/육각형개발자.jpg"  width="200" height="300">
 
 </div>
 
