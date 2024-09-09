@@ -102,7 +102,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 
 ### ✨ experience ✨
-2024.03 - 2024.06 : 프로젝트X - 부트캠프프
+2024.03 - 2024.06 : 프로젝트X - 부트캠프
 <br>
 2024.07 - 2024.08 : 범일정보 인턴
 <br>
