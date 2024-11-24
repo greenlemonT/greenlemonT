@@ -16,6 +16,8 @@
 정보처리기사
 <br>
 SQLD
+<br>
+AWS Solutions Architect Associate 
 
 ### 🍀 TIL 🍀  
   [![Velog Badge](http://img.shields.io/badge/greenlemon_t-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@greenlemon_t/posts)
